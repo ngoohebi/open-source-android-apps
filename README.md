@@ -34,8 +34,8 @@
 | [**Telegram**](https://github.com/TelegramMessenger/Telegram-Android) | The official, open-source Android client for the Telegram messaging service. | 30.4k |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 30.0k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.7k |
-| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 24.0k |
-| [**Komi Store**](https://github.com/komi-store/komi-store) | A cross-platform client for discovering and installing app releases published on GitHub. | 22.2k |
+| [**Super Productivity**](https://github.com/super-productivity/super-productivity) | An open-source to-do list and time tracker with timeboxing, Jira/GitHub/GitLab integration. | 24.1k |
+| [**Komi Store**](https://github.com/komi-store/komi-store) | A cross-platform client for discovering and installing app releases published on GitHub. | 22.3k |
 | [**ExoPlayer**](https://github.com/google/ExoPlayer) | An extensible media player for Android from Google. (Deprecated, development moved to [androidx.media3](https://github.com/androidx/media).) | 21.9k |
 | [**Obtainium**](https://github.com/ImranR98/Obtainium) | Get app updates directly from their source (e.g., GitHub, F-Droid). | 21.9k |
 | [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | 21.6k |
@@ -49,7 +49,7 @@
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 12.3k |
 | [**CloudStream**](https://github.com/recloudstream/cloudstream) | An Android app for streaming and downloading movies, TV shows, and anime. | 11.4k |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | 10.7k |
-| [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | 10.4k |
+| [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | 10.5k |
 ## 🗂️ Categories
 
 | Category | Description | Count |
